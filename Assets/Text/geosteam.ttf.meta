@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 918d1fec5467c2e47ba919c09886d2cc
+timeCreated: 1524697426
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: geosteam
+  fontNames:
+  - geosteam
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
